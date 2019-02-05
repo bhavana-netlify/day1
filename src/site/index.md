@@ -5,7 +5,7 @@ layout: layouts/base.njk
 ---
 
 
-## This site is a starting point - a very good starting point
+## This site is a starting point - Making changes for Havas - staging
 
 From this point we should already have:
 
